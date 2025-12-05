@@ -8,3 +8,7 @@
 - **Backend (майбутній)** — REST API для даних товарів.  
 - **Storage** — зберігання фото та статичних даних.  
 - **External Services** — опціонально (аналітика, платежі).  
+
+- [Опис компонентів](docs/architecture/components.md)
+- [Матриця відповідальності](docs/architecture/ownership.md)
+- [Діаграма архітектури](docs/architecture/architecture_v1.png)
