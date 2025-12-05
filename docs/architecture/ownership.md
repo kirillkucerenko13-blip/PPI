@@ -6,5 +6,5 @@
 | :--- | :--- | :--- | :--- |
 | **Frontend Developer** | https://github.com/Maks23409 | Верстка каталогу, адаптивність UI |
 | **UI/UX ДизайнI** | https://github.com/kirillkucerenko13-blip | API ендпоінти, робота з БД, інтеграція зовнішніх сервісів |
-| **Project Manager** |  | - | Проєктування схеми БД, міграції, бекапи |
-| **Backend Developer**|  | - | Налаштування серверу, CI/CD, S3 Storage |
+| **Project Manager** | Поліновський Андрій | - | Проєктування схеми БД, міграції, бекапи |
+| **Backend Developer**| Шинкаренко Михайло | - | Налаштування серверу, CI/CD, S3 Storage |
